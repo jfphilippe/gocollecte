@@ -1,0 +1,8 @@
+
+^(bin)\/(?!\.keep)
+^(3rdparty)\/(?!\.keep)
+^(logs)\/(?!\.keep)
+^(pkg)\/(?!\.keep)
+\.git\/
+\.swp$
+^data
