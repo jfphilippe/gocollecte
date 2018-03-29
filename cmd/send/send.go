@@ -21,7 +21,7 @@ var (
 func main() {
 	// Desciption de l usage du programme.
 	flag.Usage = func() {
-		fmt.Fprintf(os.Stderr, "Collecte\n")
+		fmt.Fprintf(os.Stderr, "send\n")
 		fmt.Fprintf(os.Stderr, "    version: %s\n", "0.1")
 		fmt.Fprintf(os.Stderr, "    copyright: %s\n", "jeff")
 		fmt.Fprintf(os.Stderr, "Usage de %s:\n", os.Args[0])
@@ -45,6 +45,8 @@ func main() {
 			}
 
 		}
+	} else {
+		panic(err)
 	}
 
 }
