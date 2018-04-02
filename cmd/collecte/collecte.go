@@ -1,4 +1,4 @@
-//Copyright jean-françois PHILIPPE 2014-2016
+//Copyright jean-françois PHILIPPE 2014-2018
 //
 //Paquet principal de l application de collecte.
 

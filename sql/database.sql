@@ -1,5 +1,5 @@
 /*
- * @author Jeff
+ * Copyright jean-francois PHILIPPE 2014-2018
  */
 
 
